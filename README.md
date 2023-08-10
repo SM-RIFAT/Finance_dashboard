@@ -42,5 +42,7 @@ The Finance Dashboard App is a web application designed to help businesses visua
       cd server
       npm run dev
 
+## Link of simulation video and project report:
+https://drive.google.com/drive/folders/1g0IBL2bQLOgxKgTapQFBIB5x33lnXVsN?usp=drive_link
 
 
